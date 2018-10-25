@@ -1,0 +1,40 @@
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PFExtensionTemplate.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PFExtensionTemplate.pdb
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PageflexServices.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\StorefrontExtension.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\SXI.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\de-DE\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\es-ES\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\fr-FR\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\it-IT\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\nl-NL\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\pl-PL\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\pt-BR\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\ru-RU\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\zh-CN\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\bin\Debug\zh-TW\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csprojAssemblyReference.cache
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csproj.CoreCompileInputs.cache
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csproj.CopyComplete
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.dll
+C:\Users\v22186\source\repos\PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.pdb
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PFExtensionTemplate.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PFExtensionTemplate.pdb
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\PageflexServices.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\StorefrontExtension.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\SXI.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\de-DE\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\es-ES\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\fr-FR\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\it-IT\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\nl-NL\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\pl-PL\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\pt-BR\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\ru-RU\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\zh-CN\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\bin\Debug\zh-TW\StorefrontExtension.resources.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csprojAssemblyReference.cache
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csproj.CoreCompileInputs.cache
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.csproj.CopyComplete
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.dll
+C:\Users\v22186\source\repos\0 PFExtensionTemplate\PFExtensionTemplate\obj\Debug\PFExtensionTemplate.pdb
